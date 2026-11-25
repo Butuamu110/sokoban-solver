@@ -1,5 +1,9 @@
 # Sokoban Solver — @rojanon11
 
+[![make.fun · sokoban-solver-01-run-20261121](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)]](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/Butuamu110/sokoban-solver/rank.svg)]](https://make.fun/bounty/sokoban-solver-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/Butuamu110/sokoban-solver/reward.svg)]](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+
 [![badge](https://make.fun/api/badge/Butuamu110/sokoban-solver)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
 [![badge](https://make.fun/api/badge/Butuamu110/sokoban-solver)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
 [![badge](https://make.fun/api/badge/Butuamu110/sokoban-solver)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
